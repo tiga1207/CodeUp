@@ -1,6 +1,6 @@
 #include<iostream>
 int main(){
-    unsigned int a;
+    long long int a;
     std::cin>>a;
     std::cout<<a;
 }
